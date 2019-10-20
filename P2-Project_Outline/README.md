@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project consists of helping people keep track of maintenance tasks that might slip our minds from time to time. For example changing a furnace filter or changing out a water filter. Today life is very busy and trying to remember everything is difficult. This  web app will be able to assist with our busy schedules. 
+
+Users will be able to assign their task a name and leave a note describing the task at hand. The user can also add a picture to help remind them of what and where the task will need to be performed. The user can set a reminder as to how often that task will need to be performed. If a task doesn't need to be performed anymore then the user will be able to delete such task. 
+
 ### Features
-Include Features here
+User login: Users will be able to log on to see their individual tasks that they have created.
+
+Reminder: Users will be able to set how far in advance they would like a reminder before that task is needed to be performed. Reminder will be sent by email.
+
+Delete Task: User will be able to delete task when it is no longer required. 
+
+Upload a picture: User will be able to upload a picture to help remember the task at hand or a part that needs to be ordered.
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+JavaScript
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn about sessions in Java. 
+I will have to learn more about JavaScript to make the front-end of the project more interactive.
+I will have to learn more features in Spring Boot.
+
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/iHfyeWRS/task-manager
