@@ -13,7 +13,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 * Wire Frames
     *![wire frame photo 1]
     (C:\Users\Zach\Pictures\WireFramePhotos)
-    
+
     *![wire frame photo 2](C:\Users\Zach\Pictures\WireFramePhotos)
 
 ### Project Tracker
