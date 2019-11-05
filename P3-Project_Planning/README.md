@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 * Wire Frame 1
-    ![wire frame 1](C:\Users\Zach\Pictures\WireFrame Photos\wireframe1.jpg)
+    ![wire frame 1](20191104_071531.jpg)
 * Wire Frame 2
-    ![wire frame 2](C:\Users\Zach\Pictures\WireFrame Photos\wireframe2.jpg)
+    ![wire frame 2](wireframe2.jpg)
 
 ### Project Tracker
 
